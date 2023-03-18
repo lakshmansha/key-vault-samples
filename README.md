@@ -4,8 +4,8 @@ Samples source related to Integration of KeyVault.
 
 The Sample as below,
 
-- DotNet7 API
-- Node.JS Express API
+- [DotNet7 API](kvt-dotnet7api/README.md)
+- [Node.JS Express API](kvt-nodeapi/README.md)
 
 
 ## Reference:
