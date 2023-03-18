@@ -24,4 +24,6 @@ KEY_VAULT_NAME=youtubekvt
 ```
 
 ## Grant access to your key vault:
+```sh
 az keyvault set-policy --name <your-key-vault-name> --upn user@domain.com --secret-permissions delete get list set purge update
+```
